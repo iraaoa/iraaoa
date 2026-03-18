@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=350&section=header&text=Welcome%20to%20my%20profile&fontSize=60)
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Iryna%20Sabat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20•%20Designer%20•%20Developer&descAlignY=51&descSize=20" />
+</p>
+
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
