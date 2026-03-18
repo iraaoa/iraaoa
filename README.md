@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+
+
+	
 </p>
 
 
@@ -22,10 +26,6 @@
 
 
 
-- 🎓 **Education:** 3rd-year CS Student at **Lviv Polytechnic National University**
-- 🚀 **Projects:** Developing **TravelMate** (Travel Experience App) and exploring **Parallel Computing**
-- 🎨 **Design:** Creating posters in **Figma** and learning UI/UX
-- 🧠 **Interests:** Philosophy (Nietzsche, Skovoroda), Contemporary Dance, and Digital Photography
 <!---
 iraaoa/iraaoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
