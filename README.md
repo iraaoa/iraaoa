@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=350&section=header&text=Welcome%20to%20my%20profile&fontSize=60)
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
