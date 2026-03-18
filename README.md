@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Iryna%20Sabat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20•%20Designer%20•%20Developer&descAlignY=51&descSize=20" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
 ### 🛠 Tech Stack & Tools
