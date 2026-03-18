@@ -10,11 +10,22 @@
 </p>
 
 
+
+
+
 ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iraaoa&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Iryna's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraaoa&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
 </p>
+
+
+
+
+- 🎓 **Education:** 3rd-year CS Student at **Lviv Polytechnic National University**
+- 🚀 **Projects:** Developing **TravelMate** (Travel Experience App) and exploring **Parallel Computing**
+- 🎨 **Design:** Creating posters in **Figma** and learning UI/UX
+- 🧠 **Interests:** Philosophy (Nietzsche, Skovoroda), Contemporary Dance, and Digital Photography
 <!---
 iraaoa/iraaoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
